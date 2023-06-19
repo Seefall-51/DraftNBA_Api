@@ -1,0 +1,7 @@
+- récupère la liste de joueurs
+- route affiicher "all joueurs"
+- route "paramètre équipe => joueur de cette équipe"
+- route "joueur au hasard"
+
+-jeu de données en JSON
+-deploy render.com
